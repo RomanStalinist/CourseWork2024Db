@@ -1,0 +1,6 @@
+Id,PassportId,Specialty,Phone,Email,ExperienceYears,Address,CreatedAt,UpdatedAt
+1,6,Дерматолог,+1234567895,sirgay.leonov@example.com,6,Россия г. Владимир ул. Пушкина д. Колотушкина,2023-01-06 17:00:00,2023-01-06 17:00:00
+2,7,Хирург,+1234567896,elena.morozova@example.com,9,Польша г. Варшава ул. Ножевая д. 29,2023-01-07 18:00:00,2023-01-07 18:00:00
+3,8,Онколог,+1234567897,alexey.covalev@example.com,11,505 Cancer Ln Мексико-сити,2023-01-08 19:00:00,2023-01-08 19:00:00
+4,9,Уролог,+1234567898,tanya.stepanovna@example.com,5,606 Bladder St Сеул,2023-01-09 20:00:00,2023-01-09 20:00:00
+5,10,Гинеколог,+1234567899,vitec.play@example.com,13,707 Women Rd Лондон,2023-01-10 21:00:00,2023-01-10 21:00:00
